@@ -1,0 +1,6 @@
+venv/
+*.log
+*.pot
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
